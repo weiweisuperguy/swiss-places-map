@@ -2637,6 +2637,102 @@
    "top": false
   },
   {
+   "id": "3efeac558b1d818cb5b6c84aa3715526",
+   "name_en": "Gotthardpass & Tremola",
+   "name_ja": "ゴッタルド峠とトレモラ旧道",
+   "url": "https://www.notion.so/3efeac558b1d818cb5b6c84aa3715526",
+   "lat": 46.555375,
+   "lon": 8.566731,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Ticino · ティチーノ",
+    "emoji": "",
+    "en": "Ticino",
+    "ja": "ティチーノ"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "T2 一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "reopens": null,
+   "from_brugg": 151,
+   "distance": 14,
+   "ascent": 970,
+   "walking": 5.1,
+   "summary_en": "Ride the historic Gotthard line to Airolo, then hike the old mule path beside the cobbled Tremola to the 2,100 m pass and hospice. No pass bus after 4 Oct.",
+   "summary_ja": "歴史ある山岳路線でアイロロへ。石畳のトレモラ旧道沿いの古道を登り、標高約2,100 mの峠とホスピスへ。峠行きバスは10/4で終了のため往復徒歩で。",
+   "route": "https://schweizmobil.ch/en/hiking-in-switzerland/route-7/stage-11",
+   "top": false
+  },
+  {
    "id": "3efeac558b1d8117b3ecf5d6b83820ea",
    "name_en": "Grindelwald",
    "name_ja": "グリンデルワルト",
@@ -3878,6 +3974,114 @@
    "top": false
   },
   {
+   "id": "3efeac558b1d81edb2d3de0a42c7c98a",
+   "name_en": "Monte Tamaro – Monte Lema",
+   "name_ja": "モンテ・タマロ〜モンテ・レーマ縦走",
+   "url": "https://www.notion.so/3efeac558b1d81edb2d3de0a42c7c98a",
+   "lat": 46.10392,
+   "lon": 8.86603,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Ticino · ティチーノ",
+    "emoji": "",
+    "en": "Ticino",
+    "ja": "ティチーノ"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "T2 一般登山道"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-08",
+   "reopens": null,
+   "from_brugg": 176,
+   "distance": 13.1,
+   "ascent": 962,
+   "walking": 5,
+   "summary_en": "Popular Ticino border-ridge traverse from Monte Tamaro to Monte Lema, lifts at both ends: Botta's chapel, views of Lakes Maggiore and Lugano, about 5 h walking.",
+   "summary_ja": "ボッタ設計の礼拝堂からイタリア国境の稜線をたどってモンテ・レーマへ。マッジョーレ湖とルガーノ湖を見下ろす人気の縦走路で、歩行約5時間の長丁場です。",
+   "route": "https://www.montetamaro.ch/it/item/traversata-monte-tamaro-monte-lema",
+   "top": false
+  },
+  {
    "id": "3eeeac558b1d815fb2a6fed99373e0ee",
    "name_en": "Lötschental",
    "name_ja": "レッチェンタール",
@@ -4430,6 +4634,210 @@
    "top": false
   },
   {
+   "id": "3efeac558b1d8126a429ef72cc0d3865",
+   "name_en": "Evolène",
+   "name_ja": "エヴォレーヌ",
+   "url": "https://www.notion.so/3efeac558b1d8126a429ef72cc0d3865",
+   "lat": 46.1147,
+   "lon": 7.494,
+   "type": {
+    "key": "🚶 Walk · 散策",
+    "emoji": "🚶",
+    "en": "Walk",
+    "ja": "散策"
+   },
+   "region": {
+    "key": "Valais · ヴァレー",
+    "emoji": "",
+    "en": "Valais",
+    "ja": "ヴァレー"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "T1 やさしい"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "reopens": null,
+   "from_brugg": 202,
+   "distance": 8.9,
+   "ascent": 317,
+   "walking": 3,
+   "summary_en": "Sun-blackened larch-wood villages of Val d'Hérens: easy balcony walk Les Haudères–La Sage–Evolène with Dent Blanche views, golden larches, earth pyramids.",
+   "summary_ja": "エラン谷の黒い木造の村々をつなぐ散策。ダン・ブランシュを望み、10月は黄金色のカラマツ。ウゼーニュの土柱やブリゾレも楽しめます。",
+   "route": "https://www.valdherens.ch/fr/tour-du-val-d-herens-etape-3-fp44850",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d8161be50d74923ab6c28",
+   "name_en": "Les Diablerets – Glacier 3000",
+   "name_ja": "レ・ディアブルレ（グレッシャー3000）",
+   "url": "https://www.notion.so/3efeac558b1d8161be50d74923ab6c28",
+   "lat": 46.3543,
+   "lon": 7.2063,
+   "type": {
+    "key": "⛰️ Summit · 山頂",
+    "emoji": "⛰️",
+    "en": "Summit",
+    "ja": "山頂"
+   },
+   "region": {
+    "key": "Western CH · 西スイス",
+    "emoji": "",
+    "en": "Western CH",
+    "ja": "西スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "T1 やさしい"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-18",
+   "reopens": null,
+   "from_brugg": 206,
+   "distance": null,
+   "ascent": 140,
+   "walking": 1,
+   "summary_en": "Cable car from Col du Pillon to Glacier 3000 (≈2,970 m): Peak Walk bridge between two summits, glacier walk, big Alpine views. Runs until 18 Oct 2026.",
+   "summary_ja": "コル・デュ・ピヨンからロープウェイで約3,000mのグレッシャー3000へ。山頂同士を結ぶ吊り橋と氷河散策。2026年は10/18まで運行。",
+   "route": "https://www.glacier3000.ch/en/activities/peak-walk-by-tissot/",
+   "top": false
+  },
+  {
    "id": "3eeeac558b1d813baeb4e27b1ae82a9e",
    "name_en": "Sustenpass & Steinsee",
    "name_ja": "ズステン峠とシュタイン湖",
@@ -4640,6 +5048,120 @@
    "top": false
   },
   {
+   "id": "3efeac558b1d81519260c529e860c280",
+   "name_en": "Grimentz",
+   "name_ja": "グリメンツ",
+   "url": "https://www.notion.so/3efeac558b1d81519260c529e860c280",
+   "lat": 46.1808,
+   "lon": 7.5761,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Valais · ヴァレー",
+    "emoji": "",
+    "en": "Valais",
+    "ja": "ヴァレー"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "T2 一般登山道"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-25",
+   "reopens": null,
+   "from_brugg": 219,
+   "distance": 4.1,
+   "ascent": 180,
+   "walking": 1.5,
+   "summary_en": "Postcard village of sun-browned larch chalets; cable car up, then a 1.5 h hike over the Corne de Sorebois col (2,835 m) down to turquoise Lac de Moiry.",
+   "summary_ja": "日に焼けたカラマツ材の家が並ぶ絵はがきのような村。ロープウェイで上がり、峠（2,835 m）を越えてターコイズ色のモワリー湖へ下る約1時間半のハイク。",
+   "route": "https://valdanniviers.ch/fr/V3720/a-faire/en-ete/espace-weisshorn-barrage-de-moiry-par-la-corne-de-sorebois-n09",
+   "top": false
+  },
+  {
    "id": "3eeeac558b1d816a900ac245625383ee",
    "name_en": "Lavertezzo (Verzasca)",
    "name_ja": "ラヴェルテッツォ（ヴェルザスカ谷）",
@@ -4847,6 +5369,102 @@
    "summary_en": "Cogwheel train from Montreux up about 1,600 m to a 2,042 m balcony over Lake Geneva and the Alps, then a ridge path to Jaman. Trains resume 17 Oct 2026.",
    "summary_ja": "モントルーから登山鉄道で標高2,042mの山頂へ。レマン湖とアルプスの大パノラマ、ジャマン駅への尾根歩きも。2026年は10月17日に運行再開。",
    "route": "https://www.montreuxriviera.com/en/V3047",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d81d9bbb2e5abbb58b57b",
+   "name_en": "Champéry",
+   "name_ja": "シャンペリー",
+   "url": "https://www.notion.so/3efeac558b1d81d9bbb2e5abbb58b57b",
+   "lat": 46.175078,
+   "lon": 6.870408,
+   "type": {
+    "key": "🚶 Walk · 散策",
+    "emoji": "🚶",
+    "en": "Walk",
+    "ja": "散策"
+   },
+   "region": {
+    "key": "Valais · ヴァレー",
+    "emoji": "",
+    "en": "Valais",
+    "ja": "ヴァレー"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "T2 一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⛓️ Chains / exposed · 鎖場・高度感",
+     "emoji": "⛓️",
+     "en": "Chains / exposed",
+     "ja": "鎖場・高度感"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "reopens": null,
+   "from_brugg": 248,
+   "distance": 5.7,
+   "ascent": 255,
+   "walking": 2,
+   "summary_en": "Chalet village under the jagged Dents du Midi. Walk the railed Galerie Défago cliff-ledge loop (2 h); cable car to Croix de Culet daily 10–25 Oct 2026.",
+   "summary_ja": "ダン・デュ・ミディの麓のシャレーの村。手すり付きの断崖の道ギャルリー・デファゴを一周（約2時間）。10/10〜25はロープウェイで展望台へも。",
+   "route": "https://www.regiondentsdumidi.ch/en/591841-galerie-defago-7098/",
    "top": false
   },
   {
