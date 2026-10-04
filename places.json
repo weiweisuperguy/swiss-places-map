@@ -278,6 +278,113 @@
    "top": false
   },
   {
+   "id": "3efeac558b1d811a8f94f4088d130f4b",
+   "name_en": "GoldenPass Line",
+   "name_ja": "ゴールデンパス・ライン",
+   "url": "https://www.notion.so/3efeac558b1d811a8f94f4088d130f4b",
+   "lat": 46.453623,
+   "lon": 6.943469,
+   "type": {
+    "key": "🚆 Scenic train · 絶景列車",
+    "emoji": "🚆",
+    "en": "Scenic train",
+    "ja": "絶景列車"
+   },
+   "region": {
+    "key": "Western CH · 西スイス",
+    "emoji": "",
+    "en": "Western CH",
+    "ja": "西スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 65,
+   "distance": null,
+   "ascent": null,
+   "walking": null,
+   "summary_en": "Lucerne to Montreux in a day on ordinary tickets: Brünig Pass, Lake Brienz, the chalet valleys around Gstaad and a grand descent to Lake Geneva.",
+   "summary_ja": "ルツェルンからモントルーまで普通の乗車券で1日周遊。ブリューニック峠、ブリエンツ湖、グシュタード周辺のシャレーの谷を抜け、レマン湖へ下ります。",
+   "route": "https://www.bls.ch/en/freizeit-und-ferien/ausfluege/mob-goldenpass-express",
+   "top": false
+  },
+  {
    "id": "3eeeac558b1d812aa4e2fa80d02e488e",
    "name_en": "Luzern Old Town",
    "name_ja": "ルツェルン旧市街",
@@ -392,10 +499,10 @@
     "ja": "滝"
    },
    "region": {
-    "key": "Eastern CH · 東スイス",
+    "key": "Mittelland & North · ミッテルラント・北部",
     "emoji": "",
-    "en": "Eastern CH",
-    "ja": "東スイス"
+    "en": "Mittelland & North",
+    "ja": "ミッテルラント・北部"
    },
    "effort": {
     "key": "🟢 T1 Easy · やさしい",
@@ -654,6 +761,214 @@
    "summary_en": "Easy lakeside walk along fjord-like Lake Uri, past Tell's Chapel to tiny Sisikon. Low and year-round: a great bad-weather plan. Hourly trains back.",
    "summary_ja": "フィヨルドのようなウーリ湖のほとりを、テルの礼拝堂を通って小さな村シシコンへ。低地で一年中歩けるので、山の天気が悪い日にぴったり。帰りは毎時の電車で。",
    "route": "https://uri.swiss/tour/familienwanderung-flueelen-sisikon",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d81e58068eb0e73b075d7",
+   "name_en": "Glacier Express by regional train",
+   "name_ja": "普通列車で行く氷河特急ルート",
+   "url": "https://www.notion.so/3efeac558b1d81e58068eb0e73b075d7",
+   "lat": 46.660216,
+   "lon": 8.670489,
+   "type": {
+    "key": "🚆 Scenic train · 絶景列車",
+    "emoji": "🚆",
+    "en": "Scenic train",
+    "ja": "絶景列車"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    },
+    {
+     "key": "❄️ Winter · 冬",
+     "emoji": "❄️",
+     "en": "Winter",
+     "ja": "冬"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 112,
+   "distance": null,
+   "ascent": null,
+   "walking": null,
+   "summary_en": "Glacier Express tracks on ordinary trains: Rhine Gorge, Oberalp Pass (2,033 m), Andermatt. Runs hourly all October, no reservation, loop day from Brugg.",
+   "summary_ja": "氷河特急と同じ線路を普通列車で。ライン渓谷を抜け、オーバーアルプ峠（2,033m）を越えてアンデルマットへ。10月も毎時運行、予約不要の日帰り周遊。",
+   "route": "https://www.glacierexpress.ch/en/timetable/",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d81c3bcd2f22fb4d11f38",
+   "name_en": "Bernina Line",
+   "name_ja": "ベルニナ線",
+   "url": "https://www.notion.so/3efeac558b1d81c3bcd2f22fb4d11f38",
+   "lat": 46.374505,
+   "lon": 10.031218,
+   "type": {
+    "key": "🚆 Scenic train · 絶景列車",
+    "emoji": "🚆",
+    "en": "Scenic train",
+    "ja": "絶景列車"
+   },
+   "region": {
+    "key": "Graubünden · グラウビュンデン",
+    "emoji": "",
+    "en": "Graubünden",
+    "ja": "グラウビュンデン"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    },
+    {
+     "key": "❄️ Winter · 冬",
+     "emoji": "❄️",
+     "en": "Winter",
+     "ja": "冬"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 112,
+   "distance": null,
+   "ascent": null,
+   "walking": null,
+   "summary_en": "The Bernina Express route on ordinary RhB trains: Albula viaducts, Bernina Pass glaciers, down to Tirano in Italy. Windows open; reservation optional.",
+   "summary_ja": "ベルニナ急行と同じ世界遺産ルートを普通列車で。窓を開けて氷河や高架橋を撮影でき、予約なしでイタリアのティラーノまで行けます。",
+   "route": "https://www.rhb.ch/en/news/difference-bernina-express-regional-train/",
    "top": false
   },
   {
@@ -1804,6 +2119,107 @@
    "top": false
   },
   {
+   "id": "3efeac558b1d81f7b3fee08ae5130780",
+   "name_en": "Lauterbrunnen",
+   "name_ja": "ラウターブルンネン",
+   "url": "https://www.notion.so/3efeac558b1d81f7b3fee08ae5130780",
+   "lat": 46.59842,
+   "lon": 7.908077,
+   "type": {
+    "key": "💧 Waterfall · 滝",
+    "emoji": "💧",
+    "en": "Waterfall",
+    "ja": "滝"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 144,
+   "distance": 6.8,
+   "ascent": 117,
+   "walking": 1.8,
+   "summary_en": "Flat, easy valley walk past 297 m Staubbach Falls to Trümmelbach's glacier falls inside the mountain. Works in the rain; very busy, so go early on a weekday.",
+   "summary_ja": "落差約297mのシュタウプバッハの滝から、山の中を流れ落ちる氷河の滝トリュンメルバッハへ。平らで歩きやすい谷の散策で、雨でもOK。大人気なので平日の朝に。",
+   "route": "https://www.outdooractive.com/en/r/51019234",
+   "top": false
+  },
+  {
    "id": "3eeeac558b1d8190b612e3e276a7454e",
    "name_en": "Segnesboden & Trutg dil Flem",
    "name_ja": "セグネスボーデンとフリムスの水の道",
@@ -1908,107 +2324,6 @@
    "summary_en": "FlemX ropetaxi up to a flat UNESCO plain below the Tschingelhörner, then down the Flem gorge past waterfalls and seven bridges. FlemX runs until 25 Oct.",
    "summary_ja": "世界初のロープタクシーFlemXで上がり、世界遺産サルドーナの平原から、滝と橋が続くフレム渓谷沿いにフリムスへ下ります。FlemXは10/25まで。",
    "route": "https://unesco-sardona.ch/en/erlebnis/trutg-dil-flem-2",
-   "top": false
-  },
-  {
-   "id": "3efeac558b1d81f7b3fee08ae5130780",
-   "name_en": "Lauterbrunnen",
-   "name_ja": "ラウターブルンネン",
-   "url": "https://www.notion.so/3efeac558b1d81f7b3fee08ae5130780",
-   "lat": 46.59842,
-   "lon": 7.908077,
-   "type": {
-    "key": "💧 Waterfall · 滝",
-    "emoji": "💧",
-    "en": "Waterfall",
-    "ja": "滝"
-   },
-   "region": {
-    "key": "Bernese Oberland · ベルナーオーバーラント",
-    "emoji": "",
-    "en": "Bernese Oberland",
-    "ja": "ベルナーオーバーラント"
-   },
-   "effort": {
-    "key": "🟢 T1 Easy · やさしい",
-    "emoji": "🟢",
-    "en": "T1 Easy",
-    "ja": "やさしい"
-   },
-   "crowds": {
-    "key": "🔥 Very popular · 大人気",
-    "emoji": "🔥",
-    "en": "Very popular",
-    "ja": "大人気"
-   },
-   "highlights": [
-    {
-     "key": "🌊 Gorges & falls · 渓谷・滝",
-     "emoji": "🌊",
-     "en": "Gorges & falls",
-     "ja": "渓谷・滝"
-    },
-    {
-     "key": "🏆 Swiss classic · 定番の名所",
-     "emoji": "🏆",
-     "en": "Swiss classic",
-     "ja": "定番の名所"
-    },
-    {
-     "key": "📸 Photo spot · 絶景フォト",
-     "emoji": "📸",
-     "en": "Photo spot",
-     "ja": "絶景フォト"
-    },
-    {
-     "key": "☔ Rainy-day OK · 雨でもOK",
-     "emoji": "☔",
-     "en": "Rainy-day OK",
-     "ja": "雨でもOK"
-    },
-    {
-     "key": "🏘️ Villages & culture · 村・文化",
-     "emoji": "🏘️",
-     "en": "Villages & culture",
-     "ja": "村・文化"
-    }
-   ],
-   "headsup": [
-    {
-     "key": "👥 Busy weekends · 週末は混雑",
-     "emoji": "👥",
-     "en": "Busy weekends",
-     "ja": "週末は混雑"
-    }
-   ],
-   "season": [
-    {
-     "key": "🌸 Spring · 春",
-     "emoji": "🌸",
-     "en": "Spring",
-     "ja": "春"
-    },
-    {
-     "key": "☀️ Summer · 夏",
-     "emoji": "☀️",
-     "en": "Summer",
-     "ja": "夏"
-    },
-    {
-     "key": "🍂 Autumn · 秋",
-     "emoji": "🍂",
-     "en": "Autumn",
-     "ja": "秋"
-    }
-   ],
-   "open_until": null,
-   "from_brugg": 144,
-   "distance": 6.8,
-   "ascent": 117,
-   "walking": 1.8,
-   "summary_en": "Flat, easy valley walk past 297 m Staubbach Falls to Trümmelbach's glacier falls inside the mountain. Works in the rain; very busy, so go early on a weekday.",
-   "summary_ja": "落差約297mのシュタウプバッハの滝から、山の中を流れ落ちる氷河の滝トリュンメルバッハへ。平らで歩きやすい谷の散策で、雨でもOK。大人気なので平日の朝に。",
-   "route": "https://www.outdooractive.com/en/r/51019234",
    "top": false
   },
   {
@@ -3437,6 +3752,94 @@
    "top": false
   },
   {
+   "id": "3efeac558b1d818b91d0fcc95e25dc79",
+   "name_en": "Klöntalersee",
+   "name_ja": "クレンタール湖",
+   "url": "https://www.notion.so/3efeac558b1d818b91d0fcc95e25dc79",
+   "lat": 47.0269,
+   "lon": 8.9777,
+   "type": {
+    "key": "🏞️ Lake · 湖",
+    "emoji": "🏞️",
+    "en": "Lake",
+    "ja": "湖"
+   },
+   "region": {
+    "key": "Eastern CH · 東スイス",
+    "emoji": "",
+    "en": "Eastern CH",
+    "ja": "東スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-18",
+   "from_brugg": 173,
+   "distance": 14,
+   "ascent": 118,
+   "walking": 3.4,
+   "summary_en": "Fjord-like lake below the Glärnisch: easy, quiet south-shore walk through autumn woods, then down the Löntsch gorge to Netstal. Bus until 18 Oct.",
+   "summary_ja": "グレールニッシュの岩壁の下に広がるフィヨルドのような湖。静かな南岸の紅葉の森を歩くやさしいコース。バスは10月18日まで。",
+   "route": "https://www.wanderungen.ch/de/touren/wanderungen/ostschweiz/Kl%C3%B6ntal%20Pl%C3%A4tz-Kl%C3%B6ntalersee-Rhodannenberg-Netstal.html?tour=2773",
+   "top": false
+  },
+  {
    "id": "3eeeac558b1d815fb2a6fed99373e0ee",
    "name_en": "Lötschental",
    "name_ja": "レッチェンタール",
@@ -3764,6 +4167,113 @@
    "top": false
   },
   {
+   "id": "3efeac558b1d811e9e4ed6a9e0ed9eb2",
+   "name_en": "Jöriseen",
+   "name_ja": "ヨーリ湖群",
+   "url": "https://www.notion.so/3efeac558b1d811e9e4ed6a9e0ed9eb2",
+   "lat": 46.7786,
+   "lon": 9.9679,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Graubünden · グラウビュンデン",
+    "emoji": "",
+    "en": "Graubünden",
+    "ja": "グラウビュンデン"
+   },
+   "effort": {
+    "key": "🟠 T3 Sure-footed · 健脚向け",
+    "emoji": "🟠",
+    "en": "T3 Sure-footed",
+    "ja": "健脚向け"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⛓️ Chains / exposed · 鎖場・高度感",
+     "emoji": "⛓️",
+     "en": "Chains / exposed",
+     "ja": "鎖場・高度感"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-25",
+   "from_brugg": 197,
+   "distance": 11,
+   "ascent": 935,
+   "walking": 4.8,
+   "summary_en": "A basin of milky-green and deep-blue alpine lakes at ~2,500 m, reached on a T3 loop over two passes from a Flüela-road PostBus stop. Snow-free days only.",
+   "summary_ja": "標高約2,500mに、乳白色がかった緑と紺碧の湖が並ぶ高山湖群。フリュエラ峠道のバス停から峠を越える健脚向け周回。雪のない日限定。",
+   "route": "https://www.wanderungen.ch/de/touren/wanderungen/graubuenden/W%C3%A4gerhus-Winterl%C3%BCcke-J%C3%B6riseen.html?tour=2248",
+   "top": false
+  },
+  {
    "id": "3efeac558b1d813e88b9e582981c60da",
    "name_en": "Zermatt & Gornergrat",
    "name_ja": "ツェルマット＆ゴルナーグラート",
@@ -3984,6 +4494,107 @@
    "top": false
   },
   {
+   "id": "3efeac558b1d81bebcf4de9399e31f1f",
+   "name_en": "Klausenpass",
+   "name_ja": "クラウゼン峠",
+   "url": "https://www.notion.so/3efeac558b1d81bebcf4de9399e31f1f",
+   "lat": 46.8682,
+   "lon": 8.8555,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-18",
+   "from_brugg": 211,
+   "distance": 8.2,
+   "ascent": 640,
+   "walking": 3.9,
+   "summary_en": "Yellow pass bus to Urnerboden, then a quiet T2 hike past the little Griessseeli lake below the glaciated Clariden to the 1,948 m pass. Bus runs until 18 Oct.",
+   "summary_ja": "峠バスでウルナーボーデンへ。氷河を抱くクラリデンの下の静かな小湖グリースゼーリを通り、標高1,948 mのクラウゼン峠まで歩きます。バスは10/18まで。",
+   "route": "https://uri.swiss/alpenpaesse/klausenpass",
+   "top": false
+  },
+  {
    "id": "3eeeac558b1d816a900ac245625383ee",
    "name_en": "Lavertezzo (Verzasca)",
    "name_ja": "ラヴェルテッツォ（ヴェルザスカ谷）",
@@ -4186,7 +4797,7 @@
    "distance": 2.7,
    "ascent": 146,
    "walking": 1.5,
-   "summary_en": "Cogwheel train from Montreux up ~1,600 m to a 2,042 m balcony over Lake Geneva and the Alps, then a ridge path to Jaman. Trains resume 17 Oct 2026.",
+   "summary_en": "Cogwheel train from Montreux up about 1,600 m to a 2,042 m balcony over Lake Geneva and the Alps, then a ridge path to Jaman. Trains resume 17 Oct 2026.",
    "summary_ja": "モントルーから登山鉄道で標高2,042mの山頂へ。レマン湖とアルプスの大パノラマ、ジャマン駅への尾根歩きも。2026年は10月17日に運行再開。",
    "route": "https://www.montreuxriviera.com/en/V3047",
    "top": false
