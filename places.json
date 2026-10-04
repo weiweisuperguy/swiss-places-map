@@ -23,7 +23,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -92,6 +92,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 48,
    "distance": null,
    "ascent": null,
@@ -124,7 +125,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "💎 Hidden gem · 穴場",
@@ -174,6 +175,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 48,
    "distance": 3.6,
    "ascent": null,
@@ -206,7 +208,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -268,6 +270,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 52,
    "distance": 5,
    "ascent": null,
@@ -300,7 +303,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -375,6 +378,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 65,
    "distance": null,
    "ascent": null,
@@ -407,7 +411,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -476,6 +480,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 65,
    "distance": 4,
    "ascent": null,
@@ -508,7 +513,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -571,6 +576,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 86,
    "distance": 3.5,
    "ascent": 51,
@@ -603,7 +609,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -666,6 +672,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 103,
    "distance": null,
    "ascent": null,
@@ -698,7 +705,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -754,6 +761,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 108,
    "distance": 7.2,
    "ascent": 153,
@@ -786,7 +794,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -849,6 +857,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 112,
    "distance": null,
    "ascent": null,
@@ -881,7 +890,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -962,6 +971,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 112,
    "distance": null,
    "ascent": null,
@@ -994,7 +1004,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -1075,6 +1085,7 @@
     }
    ],
    "open_until": "2026-10-18",
+   "reopens": null,
    "from_brugg": 113,
    "distance": 11.4,
    "ascent": 553,
@@ -1107,7 +1118,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -1182,6 +1193,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 116,
    "distance": 15,
    "ascent": 774,
@@ -1214,7 +1226,7 @@
     "key": "🟠 T3 Sure-footed · 健脚向け",
     "emoji": "🟠",
     "en": "T3 Sure-footed",
-    "ja": "健脚向け"
+    "ja": "T3 健脚向け"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -1283,6 +1295,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 118,
    "distance": 3.6,
    "ascent": 493,
@@ -1315,7 +1328,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -1384,6 +1397,7 @@
     }
    ],
    "open_until": "2026-10-25",
+   "reopens": null,
    "from_brugg": 121,
    "distance": 16,
    "ascent": 920,
@@ -1416,7 +1430,7 @@
     "key": "🟠 T3 Sure-footed · 健脚向け",
     "emoji": "🟠",
     "en": "T3 Sure-footed",
-    "ja": "健脚向け"
+    "ja": "T3 健脚向け"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -1491,6 +1505,7 @@
     }
    ],
    "open_until": "2026-11-01",
+   "reopens": null,
    "from_brugg": 128,
    "distance": 12.9,
    "ascent": 490,
@@ -1523,7 +1538,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -1586,6 +1601,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 132,
    "distance": 7,
    "ascent": 24,
@@ -1618,7 +1634,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -1681,6 +1697,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 132,
    "distance": 8.3,
    "ascent": 530,
@@ -1713,7 +1730,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -1788,6 +1805,7 @@
     }
    ],
    "open_until": "2026-12-06",
+   "reopens": null,
    "from_brugg": 139,
    "distance": 5,
    "ascent": null,
@@ -1820,7 +1838,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -1901,6 +1919,7 @@
     }
    ],
    "open_until": "2026-11-08",
+   "reopens": null,
    "from_brugg": 140,
    "distance": 8,
    "ascent": 475,
@@ -1933,7 +1952,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -2014,6 +2033,7 @@
     }
    ],
    "open_until": "2026-11-01",
+   "reopens": null,
    "from_brugg": 141,
    "distance": 8,
    "ascent": 317,
@@ -2046,7 +2066,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -2109,6 +2129,7 @@
     }
    ],
    "open_until": "2026-11-29",
+   "reopens": null,
    "from_brugg": 142,
    "distance": null,
    "ascent": null,
@@ -2141,7 +2162,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -2210,6 +2231,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 144,
    "distance": 6.8,
    "ascent": 117,
@@ -2242,7 +2264,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -2317,6 +2339,7 @@
     }
    ],
    "open_until": "2026-10-25",
+   "reopens": null,
    "from_brugg": 144,
    "distance": 13.5,
    "ascent": 216,
@@ -2349,7 +2372,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -2418,6 +2441,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 145,
    "distance": null,
    "ascent": null,
@@ -2450,7 +2474,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -2500,6 +2524,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 149,
    "distance": 12,
    "ascent": 243,
@@ -2532,7 +2557,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -2601,6 +2626,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 149,
    "distance": 9,
    "ascent": 113,
@@ -2633,7 +2659,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -2714,6 +2740,7 @@
     }
    ],
    "open_until": "2026-10-25",
+   "reopens": null,
    "from_brugg": 151,
    "distance": 4.5,
    "ascent": null,
@@ -2746,7 +2773,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -2803,6 +2830,7 @@
     }
    ],
    "open_until": "2026-10-18",
+   "reopens": null,
    "from_brugg": 160,
    "distance": 7,
    "ascent": 68,
@@ -2835,7 +2863,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -2904,6 +2932,7 @@
     }
    ],
    "open_until": "2026-11-08",
+   "reopens": null,
    "from_brugg": 161,
    "distance": 11,
    "ascent": 780,
@@ -2936,7 +2965,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -3017,6 +3046,7 @@
     }
    ],
    "open_until": "2026-10-25",
+   "reopens": null,
    "from_brugg": 163,
    "distance": 4.9,
    "ascent": 20,
@@ -3049,7 +3079,7 @@
     "key": "🟠 T3 Sure-footed · 健脚向け",
     "emoji": "🟠",
     "en": "T3 Sure-footed",
-    "ja": "健脚向け"
+    "ja": "T3 健脚向け"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -3124,6 +3154,7 @@
     }
    ],
    "open_until": "2026-11-01",
+   "reopens": null,
    "from_brugg": 163,
    "distance": 6.2,
    "ascent": 543,
@@ -3156,7 +3187,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -3225,6 +3256,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 164,
    "distance": 5,
    "ascent": 65,
@@ -3257,7 +3289,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -3332,6 +3364,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 164,
    "distance": 16.2,
    "ascent": 652,
@@ -3364,7 +3397,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -3433,6 +3466,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 165,
    "distance": 11.4,
    "ascent": 419,
@@ -3465,7 +3499,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -3540,6 +3574,7 @@
     }
    ],
    "open_until": "2026-11-24",
+   "reopens": null,
    "from_brugg": 166,
    "distance": 3.2,
    "ascent": 600,
@@ -3572,7 +3607,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -3641,6 +3676,7 @@
     }
    ],
    "open_until": "2026-11-01",
+   "reopens": null,
    "from_brugg": 167,
    "distance": 1.4,
    "ascent": null,
@@ -3673,7 +3709,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -3742,6 +3778,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 172,
    "distance": 4.4,
    "ascent": 150,
@@ -3774,7 +3811,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -3830,6 +3867,7 @@
     }
    ],
    "open_until": "2026-10-18",
+   "reopens": null,
    "from_brugg": 173,
    "distance": 14,
    "ascent": 118,
@@ -3862,7 +3900,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -3943,6 +3981,7 @@
     }
    ],
    "open_until": "2026-10-25",
+   "reopens": null,
    "from_brugg": 178,
    "distance": 9.4,
    "ascent": 133,
@@ -3975,7 +4014,7 @@
     "key": "🟢 T1 Easy · やさしい",
     "emoji": "🟢",
     "en": "T1 Easy",
-    "ja": "やさしい"
+    "ja": "T1 やさしい"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -4044,6 +4083,7 @@
     }
    ],
    "open_until": "2026-10-18",
+   "reopens": null,
    "from_brugg": 189,
    "distance": 5.2,
    "ascent": 225,
@@ -4076,7 +4116,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -4157,6 +4197,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 189,
    "distance": 6.4,
    "ascent": 157,
@@ -4189,7 +4230,7 @@
     "key": "🟠 T3 Sure-footed · 健脚向け",
     "emoji": "🟠",
     "en": "T3 Sure-footed",
-    "ja": "健脚向け"
+    "ja": "T3 健脚向け"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -4264,11 +4305,12 @@
     }
    ],
    "open_until": "2026-10-25",
+   "reopens": null,
    "from_brugg": 197,
    "distance": 11,
    "ascent": 935,
    "walking": 4.8,
-   "summary_en": "A basin of milky-green and deep-blue alpine lakes at ~2,500 m, reached on a T3 loop over two passes from a Flüela-road PostBus stop. Snow-free days only.",
+   "summary_en": "A basin of milky-green and deep-blue alpine lakes at about 2,500 m, reached on a T3 loop over two passes from a Flüela-road PostBus stop. Snow-free days only.",
    "summary_ja": "標高約2,500mに、乳白色がかった緑と紺碧の湖が並ぶ高山湖群。フリュエラ峠道のバス停から峠を越える健脚向け周回。雪のない日限定。",
    "route": "https://www.wanderungen.ch/de/touren/wanderungen/graubuenden/W%C3%A4gerhus-Winterl%C3%BCcke-J%C3%B6riseen.html?tour=2248",
    "top": false
@@ -4296,7 +4338,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -4377,6 +4419,7 @@
     }
    ],
    "open_until": "2026-11-01",
+   "reopens": null,
    "from_brugg": 201,
    "distance": null,
    "ascent": null,
@@ -4409,7 +4452,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -4484,6 +4527,7 @@
     }
    ],
    "open_until": "2026-10-04",
+   "reopens": null,
    "from_brugg": 206,
    "distance": null,
    "ascent": null,
@@ -4516,7 +4560,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -4585,6 +4629,7 @@
     }
    ],
    "open_until": "2026-10-18",
+   "reopens": null,
    "from_brugg": 211,
    "distance": 8.2,
    "ascent": 640,
@@ -4617,7 +4662,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🔥 Very popular · 大人気",
@@ -4692,6 +4737,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 223,
    "distance": 13.6,
    "ascent": 25,
@@ -4724,7 +4770,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "👥 Popular · 人気",
@@ -4793,6 +4839,7 @@
     }
    ],
    "open_until": null,
+   "reopens": "2026-10-17",
    "from_brugg": 230,
    "distance": 2.7,
    "ascent": 146,
@@ -4825,7 +4872,7 @@
     "key": "🟡 T2 Mountain trail · 一般登山道",
     "emoji": "🟡",
     "en": "T2 Mountain trail",
-    "ja": "一般登山道"
+    "ja": "T2 一般登山道"
    },
    "crowds": {
     "key": "🙂 Some visitors · ほどほど",
@@ -4894,6 +4941,7 @@
     }
    ],
    "open_until": null,
+   "reopens": null,
    "from_brugg": 258,
    "distance": 8.8,
    "ascent": 360,

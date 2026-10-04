@@ -19,6 +19,7 @@ P = {
     "headsup": "Heads-up · 注意",
     "season": "Best season · ベストシーズン",
     "open_until": "date:Open until · 今季の運行終了:start",
+    "reopens": "date:Reopens · 運行再開:start",
     "from_brugg": "From Brugg · ブルックから (min)",
     "distance": "Distance · 距離 (km)",
     "ascent": "Ascent · 登り (m)",
@@ -52,7 +53,11 @@ def label(value):
     m = re.match(r"^(\S+)\s+(.*)$", head)
     if m and not re.search(r"[A-Za-z0-9]", m.group(1)):
         emoji, head = m.group(1), m.group(2)
-    return {"key": value, "emoji": emoji, "en": head.strip(), "ja": ja.strip() or head.strip()}
+    head, ja = head.strip(), ja.strip()
+    grade = re.match(r"^(T\d)\b", head)
+    if grade and ja and not ja.startswith(grade.group(1)):
+        ja = grade.group(1) + " " + ja  # keep the SAC grade visible in Japanese too
+    return {"key": value, "emoji": emoji, "en": head, "ja": ja or head}
 
 
 def labels(raw):
@@ -60,6 +65,11 @@ def labels(raw):
         return []
     items = json.loads(raw) if isinstance(raw, str) else raw
     return [label(v) for v in items if v]
+
+
+def day(value):
+    """Keep only the YYYY-MM-DD part of a Notion date (datetimes included)."""
+    return (value or "")[:10] or None
 
 
 def split_name(name):
@@ -92,7 +102,8 @@ def main():
             "highlights": labels(r.get(P["highlights"])),
             "headsup": labels(r.get(P["headsup"])),
             "season": labels(r.get(P["season"])),
-            "open_until": r.get(P["open_until"]),
+            "open_until": day(r.get(P["open_until"])),
+            "reopens": day(r.get(P["reopens"])),
             "from_brugg": r.get(P["from_brugg"]),
             "distance": r.get(P["distance"]),
             "ascent": r.get(P["ascent"]),
