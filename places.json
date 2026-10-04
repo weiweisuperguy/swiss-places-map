@@ -1,0 +1,4296 @@
+{
+ "places": [
+  {
+   "id": "3efeac558b1d81e4bdfbd03c106eae0f",
+   "name_en": "Lindt Home of Chocolate",
+   "name_ja": "リンツ・ホーム・オブ・チョコレート",
+   "url": "https://www.notion.so/3efeac558b1d81e4bdfbd03c106eae0f",
+   "lat": 47.31847,
+   "lon": 8.5509,
+   "type": {
+    "key": "🏙️ Town · 街",
+    "emoji": "🏙️",
+    "en": "Town",
+    "ja": "街"
+   },
+   "region": {
+    "key": "Mittelland & North · ミッテルラント・北部",
+    "emoji": "",
+    "en": "Mittelland & North",
+    "ja": "ミッテルラント・北部"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    },
+    {
+     "key": "❄️ Winter · 冬",
+     "emoji": "❄️",
+     "en": "Winter",
+     "ja": "冬"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 48,
+   "distance": null,
+   "ascent": null,
+   "walking": null,
+   "summary_en": "Lindt's chocolate world on Lake Zürich: 9.3 m chocolate fountain, tastings, Japanese audio guide, huge shop. Book a slot online; boat back to Zürich.",
+   "summary_ja": "チューリッヒ湖畔のリンツのチョコ体験施設。高さ9.3mのチョコの噴水、試食、日本語音声ガイド、世界最大のリンツショップ。見学は要オンライン予約。",
+   "route": "https://www.lindt-home-of-chocolate.com/en/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d8117a6f8ee1848d387f3",
+   "name_en": "Bremgarten AG",
+   "name_ja": "ブレムガルテン",
+   "url": "https://www.notion.so/3eeeac558b1d8117a6f8ee1848d387f3",
+   "lat": 47.35016,
+   "lon": 8.34032,
+   "type": {
+    "key": "🏙️ Town · 街",
+    "emoji": "🏙️",
+    "en": "Town",
+    "ja": "街"
+   },
+   "region": {
+    "key": "Mittelland & North · ミッテルラント・北部",
+    "emoji": "",
+    "en": "Mittelland & North",
+    "ja": "ミッテルラント・北部"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "💎 Hidden gem · 穴場",
+    "emoji": "💎",
+    "en": "Hidden gem",
+    "ja": "穴場"
+   },
+   "highlights": [
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    }
+   ],
+   "headsup": [],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 48,
+   "distance": 3.6,
+   "ascent": null,
+   "walking": 1,
+   "summary_en": "Medieval town in a loop of the Reuss: covered wooden bridge, gate towers and a riverside promenade. A quiet, easy half day, under 1 h from Brugg.",
+   "summary_ja": "ロイス川に囲まれた中世の町。屋根付き木橋や塔が残る旧市街と川沿いの遊歩道を、静かにのんびり散策。ブルックから約50分。",
+   "route": "https://www.bremgarten-tourismus.ch/de/freizeit/natur/wandernundvelo",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d810785e1d38232eb3c46",
+   "name_en": "Bern Old Town",
+   "name_ja": "ベルン旧市街",
+   "url": "https://www.notion.so/3eeeac558b1d810785e1d38232eb3c46",
+   "lat": 46.94806,
+   "lon": 7.44778,
+   "type": {
+    "key": "🏙️ Town · 街",
+    "emoji": "🏙️",
+    "en": "Town",
+    "ja": "街"
+   },
+   "region": {
+    "key": "Mittelland & North · ミッテルラント・北部",
+    "emoji": "",
+    "en": "Mittelland & North",
+    "ja": "ミッテルラント・北部"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    },
+    {
+     "key": "❄️ Winter · 冬",
+     "emoji": "❄️",
+     "en": "Winter",
+     "ja": "冬"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 52,
+   "distance": 5,
+   "ascent": null,
+   "walking": 1.1,
+   "summary_en": "UNESCO old town with 6 km of arcades: Zytglogge clock, Minster tower, bears, Rosengarten view. Easy, rain-proof; free Federal Palace light show from 17 Oct.",
+   "summary_ja": "世界遺産の旧市街を約6kmのアーケード伝いに散策。時計塔、大聖堂の塔、クマ公園、バラ公園の眺め。雨でもOK、10/17から議事堂で無料ライトショー。",
+   "route": "https://www.myswitzerland.com/en-ch/destinations/bern/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d812aa4e2fa80d02e488e",
+   "name_en": "Luzern Old Town",
+   "name_ja": "ルツェルン旧市街",
+   "url": "https://www.notion.so/3eeeac558b1d812aa4e2fa80d02e488e",
+   "lat": 47.05167,
+   "lon": 8.3075,
+   "type": {
+    "key": "🏙️ Town · 街",
+    "emoji": "🏙️",
+    "en": "Town",
+    "ja": "街"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 65,
+   "distance": 4,
+   "ascent": null,
+   "walking": 2,
+   "summary_en": "Lucerne's postcard old town: Chapel Bridge, free Musegg Wall towers (to 1 Nov), Lion Monument. Easy 4 km loop, 65 min from Brugg; go early to dodge crowds.",
+   "summary_ja": "カペル橋、ムーゼック城壁の塔（11/1まで開放・無料）、ライオン記念碑をめぐる定番の旧市街散策。約4kmで坂は少なめ。ブルックから65分、朝早めがおすすめ。",
+   "route": "https://www.outdooractive.com/de/route/stadtrundgang/luzern-vierwaldstaettersee/luzern-bruecken-tuerme-mauern/807414629/",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d8154bf4ec46b00a46993",
+   "name_en": "Rheinfall",
+   "name_ja": "ライン滝",
+   "url": "https://www.notion.so/3efeac558b1d8154bf4ec46b00a46993",
+   "lat": 47.6772,
+   "lon": 8.6158,
+   "type": {
+    "key": "💧 Waterfall · 滝",
+    "emoji": "💧",
+    "en": "Waterfall",
+    "ja": "滝"
+   },
+   "region": {
+    "key": "Eastern CH · 東スイス",
+    "emoji": "",
+    "en": "Eastern CH",
+    "ja": "東スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 86,
+   "distance": 3.5,
+   "ascent": 51,
+   "walking": 1,
+   "summary_en": "Billed as Europe's largest waterfall: an easy 1 h loop across both banks, Schloss Laufen's platforms and a boat to the mid-falls rock. Low water in autumn 2026.",
+   "summary_ja": "ヨーロッパ最大級の滝。両岸を巡る約1時間の周遊路、ラウフェン城の展望台、滝の中央の岩へのボートが楽しめます。2026年秋は水量少なめ。",
+   "route": "https://www.rheinfall.ch/en/articles/rheinfall-rundwege",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d81f3acebd67c0d1212a7",
+   "name_en": "Stein am Rhein",
+   "name_ja": "シュタイン・アム・ライン",
+   "url": "https://www.notion.so/3efeac558b1d81f3acebd67c0d1212a7",
+   "lat": 47.6597,
+   "lon": 8.8597,
+   "type": {
+    "key": "🏙️ Town · 街",
+    "emoji": "🏙️",
+    "en": "Town",
+    "ja": "街"
+   },
+   "region": {
+    "key": "Mittelland & North · ミッテルラント・北部",
+    "emoji": "",
+    "en": "Mittelland & North",
+    "ja": "ミッテルラント・北部"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 103,
+   "distance": null,
+   "ascent": null,
+   "walking": null,
+   "summary_en": "Car-free medieval town of frescoed half-timbered houses, a monastery museum and a hilltop castle. Add the Rhine Falls by train. In Oct, go Wed–Sun.",
+   "summary_ja": "フレスコ画の木組みの家が並ぶ、車の入らない中世の町。修道院博物館や丘の上の城も。午後は電車でラインの滝へ。10月は水〜日曜がおすすめ。",
+   "route": "https://www.myswitzerland.com/en-ch/destinations/stein-am-rhein/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d81b6a9aaf80136a576ae",
+   "name_en": "Flüelen–Sisikon (Weg der Schweiz)",
+   "name_ja": "フリューエレン〜シシコン（スイスの道）",
+   "url": "https://www.notion.so/3eeeac558b1d81b6a9aaf80136a576ae",
+   "lat": 46.94976,
+   "lon": 8.62074,
+   "type": {
+    "key": "🚶 Walk · 散策",
+    "emoji": "🚶",
+    "en": "Walk",
+    "ja": "散策"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    }
+   ],
+   "headsup": [],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 108,
+   "distance": 7.2,
+   "ascent": 153,
+   "walking": 2.3,
+   "summary_en": "Easy lakeside walk along fjord-like Lake Uri, past Tell's Chapel to tiny Sisikon. Low and year-round: a great bad-weather plan. Hourly trains back.",
+   "summary_ja": "フィヨルドのようなウーリ湖のほとりを、テルの礼拝堂を通って小さな村シシコンへ。低地で一年中歩けるので、山の天気が悪い日にぴったり。帰りは毎時の電車で。",
+   "route": "https://uri.swiss/tour/familienwanderung-flueelen-sisikon",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d818fa0a9cc854f8771ba",
+   "name_en": "Pizol 5-Seen-Wanderung",
+   "name_ja": "ピツォール 5つの湖めぐり",
+   "url": "https://www.notion.so/3eeeac558b1d818fa0a9cc854f8771ba",
+   "lat": 46.970463,
+   "lon": 9.394854,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Eastern CH · 東スイス",
+    "emoji": "",
+    "en": "Eastern CH",
+    "ja": "東スイス"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🐿️ Wildlife · 動物",
+     "emoji": "🐿️",
+     "en": "Wildlife",
+     "ja": "動物"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍽️ Mountain-hut food · 山小屋ごはん",
+     "emoji": "🍽️",
+     "en": "Mountain-hut food",
+     "ja": "山小屋ごはん"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-18",
+   "from_brugg": 113,
+   "distance": 11.4,
+   "ascent": 553,
+   "walking": 4.5,
+   "summary_en": "Five alpine lakes in one day, incl. the turquoise Wildsee below the Pizol. Lifts run until 18 Oct; go on a weekday and catch the 08:00 train.",
+   "summary_ja": "色の違う5つの高山湖を1日でめぐる、東スイス屈指の人気ハイク。リフトは10月18日まで。秋の晴れた週末は大混雑するので、平日がおすすめです。",
+   "route": "https://pizol.com/en/hiking-trails/5-lakes-hiking/",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d818485d4f2a0be961162",
+   "name_en": "Creux du Van & Gorges de l'Areuse",
+   "name_ja": "クルー・デュ・ヴァン＆アルーズ渓谷",
+   "url": "https://www.notion.so/3efeac558b1d818485d4f2a0be961162",
+   "lat": 46.9325,
+   "lon": 6.7236,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Western CH · 西スイス",
+    "emoji": "",
+    "en": "Western CH",
+    "ja": "西スイス"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🐿️ Wildlife · 動物",
+     "emoji": "🐿️",
+     "en": "Wildlife",
+     "ja": "動物"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 116,
+   "distance": 15,
+   "ascent": 774,
+   "walking": 5.4,
+   "summary_en": "Full-day T2 hike from Noiraigue to the rim of the Jura's huge Creux du Van cliff amphitheatre (ibex!), then down through the Areuse gorge. No lifts.",
+   "summary_ja": "ノワレーグからブナ林を登り、ジュラ山脈の巨大な岩の円形劇場クルー・デュ・ヴァンの縁へ（アイベックスに会えるかも）。帰りはアルーズ渓谷を下る約15 kmの1日コース。",
+   "route": "https://www.j3l.ch/en/V1600",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d817584c6df45a0e55339",
+   "name_en": "Grosser Mythen",
+   "name_ja": "グローサー・ミーテン",
+   "url": "https://www.notion.so/3eeeac558b1d817584c6df45a0e55339",
+   "lat": 47.02972,
+   "lon": 8.688806,
+   "type": {
+    "key": "⛰️ Summit · 山頂",
+    "emoji": "⛰️",
+    "en": "Summit",
+    "ja": "山頂"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟠 T3 Sure-footed · 健脚向け",
+    "emoji": "🟠",
+    "en": "T3 Sure-footed",
+    "ja": "健脚向け"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍽️ Mountain-hut food · 山小屋ごはん",
+     "emoji": "🍽️",
+     "en": "Mountain-hut food",
+     "ja": "山小屋ごはん"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⛓️ Chains / exposed · 鎖場・高度感",
+     "emoji": "⛓️",
+     "en": "Chains / exposed",
+     "ja": "鎖場・高度感"
+    },
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 118,
+   "distance": 3.6,
+   "ascent": 493,
+   "walking": 3,
+   "summary_en": "47 numbered switchbacks up a rock pyramid, with chains on the exposed bits, to a tiny summit restaurant and a 360° view. Go on a weekday, early.",
+   "summary_ja": "岩のピラミッドに刻まれた47のつづら折りを登り、山頂レストランで360度の大パノラマ。鎖場ありの健脚向け。晴れた週末は大混雑なので平日の朝に。",
+   "route": "https://www.mythenregion.ch/sommer/wandern/mythenweg/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d817a9431fc202d2b35ff",
+   "name_en": "Surenenpass",
+   "name_ja": "スレネン峠",
+   "url": "https://www.notion.so/3eeeac558b1d817a9431fc202d2b35ff",
+   "lat": 46.83639,
+   "lon": 8.54583,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "🐿️ Wildlife · 動物",
+     "emoji": "🐿️",
+     "en": "Wildlife",
+     "ja": "動物"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-25",
+   "from_brugg": 121,
+   "distance": 16,
+   "ascent": 920,
+   "walking": 6,
+   "summary_en": "Cross the 2,292 m Surenenpass on foot from Uri to Engelberg: wild alp valley, ibex, few crowds. 6 h hike – take the 07:00 train and pack lunch.",
+   "summary_ja": "ウーリ州から標高2,292mの峠を越えてエンゲルベルクへ歩く本格アルプス越え。アイベックスに会えることも。歩行約6時間、朝7時発・お弁当持参で。",
+   "route": "https://www.luzern.com/de/tour/surenenpass",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d81b8af4fec69fd3288af",
+   "name_en": "Gemmipass & Leukerbad",
+   "name_ja": "ゲンミ峠とロイカーバート温泉",
+   "url": "https://www.notion.so/3efeac558b1d81b8af4fec69fd3288af",
+   "lat": 46.39639,
+   "lon": 7.61167,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Valais · ヴァレー",
+    "emoji": "",
+    "en": "Valais",
+    "ja": "ヴァレー"
+   },
+   "effort": {
+    "key": "🟠 T3 Sure-footed · 健脚向け",
+    "emoji": "🟠",
+    "en": "T3 Sure-footed",
+    "ja": "健脚向け"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⛓️ Chains / exposed · 鎖場・高度感",
+     "emoji": "⛓️",
+     "en": "Chains / exposed",
+     "ja": "鎖場・高度感"
+    },
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-01",
+   "from_brugg": 128,
+   "distance": 12.9,
+   "ascent": 490,
+   "walking": 5,
+   "summary_en": "Historic pass crossing: cable car to Sunnbüel, open plateau past Daubensee to Gemmipass, then a cliff path (T3) or cable car down to Leukerbad's thermal baths.",
+   "summary_ja": "ロープウェイでズンビュールへ上がり、ダウベン湖沿いの高原を歩いてゲンミ峠へ。断崖の道（T3）かロープウェイでロイカーバート温泉へ下ります。",
+   "route": "https://sunnbuel.ch/sommer-historische-wege-schwarenbach-und-gemmipass/",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d81a189d7e5580ec2845c",
+   "name_en": "Rigi",
+   "name_ja": "リギ山",
+   "url": "https://www.notion.so/3efeac558b1d81a189d7e5580ec2845c",
+   "lat": 47.0565,
+   "lon": 8.4852,
+   "type": {
+    "key": "⛰️ Summit · 山頂",
+    "emoji": "⛰️",
+    "en": "Summit",
+    "ja": "山頂"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 132,
+   "distance": 7,
+   "ascent": 24,
+   "walking": 2,
+   "summary_en": "Queen of the Mountains: easy 2 h walk on an old railway bed, then cogwheel train to Rigi Kulm for 13 lakes and autumn seas of fog. Free with Swiss Travel Pass.",
+   "summary_ja": "「山の女王」リギ山。旧鉄道跡のやさしい道を約2時間歩き、登山鉄道で山頂へ。13の湖の大展望、秋は雲海に出会えることも。Swiss Travel Passで無料。",
+   "route": "https://www.wanderungen.ch/de/touren/wanderungen/zentralschweiz/Rigi%20Scheidegg-Hinter%20Dossen-Rigi%20Kaltbad.html?tour=2745",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d81a1a8a8e45d168ce942",
+   "name_en": "Batöni Waterfall Arena",
+   "name_ja": "バテーニ滝のアリーナ",
+   "url": "https://www.notion.so/3eeeac558b1d81a1a8a8e45d168ce942",
+   "lat": 46.95753,
+   "lon": 9.35182,
+   "type": {
+    "key": "💧 Waterfall · 滝",
+    "emoji": "💧",
+    "en": "Waterfall",
+    "ja": "滝"
+   },
+   "region": {
+    "key": "Eastern CH · 東スイス",
+    "emoji": "",
+    "en": "Eastern CH",
+    "ja": "東スイス"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🐿️ Wildlife · 動物",
+     "emoji": "🐿️",
+     "en": "Wildlife",
+     "ja": "動物"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 132,
+   "distance": 8.3,
+   "ascent": 530,
+   "walking": 3.3,
+   "summary_en": "Three waterfalls (81/86/45 m) plunge into a rock cirque with a suspension bridge. T2 hike from Weisstannen in a quiet valley where ibex live.",
+   "summary_ja": "ヴァイスタンネン村から往復約3時間20分。高さ81m・86m・45mの3本の滝が落ちる岩の円形劇場と吊り橋へ。アイベックスも暮らす静かな谷です。",
+   "route": "https://heidiland.com/erleben/ausfluege-sehenswuerdigkeiten/natur/weisstannental/wasserfall-arena-batoeni.html",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d81d488b9c267af4bbe97",
+   "name_en": "Iseltwald",
+   "name_ja": "イゼルトヴァルト",
+   "url": "https://www.notion.so/3eeeac558b1d81d488b9c267af4bbe97",
+   "lat": 46.711816,
+   "lon": 7.962539,
+   "type": {
+    "key": "🚶 Walk · 散策",
+    "emoji": "🚶",
+    "en": "Walk",
+    "ja": "散策"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-12-06",
+   "from_brugg": 139,
+   "distance": 5,
+   "ascent": null,
+   "walking": 1.5,
+   "summary_en": "'Crash Landing on You' pier village on Lake Brienz, then an easy 5 km lakeside walk to Giessbach Falls and a boat back. Go early; from 12 Oct last boat 16:32.",
+   "summary_ja": "『愛の不時着』の桟橋で有名な湖畔の村から、森の道を約5km歩いてギースバッハの滝へ。帰りは船で。桟橋は朝早めに、10/12以降は最終船16:32に注意。",
+   "route": "https://www.myswitzerland.com/en-ch/destinations/iseltwald/",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d8113ad51f03d7fccf0a7",
+   "name_en": "Oeschinensee",
+   "name_ja": "エッシネン湖",
+   "url": "https://www.notion.so/3efeac558b1d8113ad51f03d7fccf0a7",
+   "lat": 46.4983,
+   "lon": 7.7269,
+   "type": {
+    "key": "🏞️ Lake · 湖",
+    "emoji": "🏞️",
+    "en": "Lake",
+    "ja": "湖"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⛓️ Chains / exposed · 鎖場・高度感",
+     "emoji": "⛓️",
+     "en": "Chains / exposed",
+     "ja": "鎖場・高度感"
+    },
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-08",
+   "from_brugg": 140,
+   "distance": 8,
+   "ascent": 475,
+   "walking": 3.3,
+   "summary_en": "Turquoise lake ringed by 3,000 m peaks above Kandersteg. Gondola + easy 25–35 min path to the shore, or a T2 high loop with bird's-eye views. Book a slot.",
+   "summary_ja": "断崖と3,000m級の峰に囲まれたターコイズ色の湖。ゴンドラと歩きやすい道30分で湖畔へ、健脚なら湖を見下ろすT2周回も。ゴンドラは時間枠の予約制です。",
+   "route": "https://www.oeschinensee.ch/wandern/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d8138afceec3c9037c259",
+   "name_en": "Lungern: Rothorn ridge or Turren",
+   "name_ja": "ルンゲルン（ロートホルン尾根／トゥレン）",
+   "url": "https://www.notion.so/3eeeac558b1d8138afceec3c9037c259",
+   "lat": 46.78537,
+   "lon": 8.15013,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "🍽️ Mountain-hut food · 山小屋ごはん",
+     "emoji": "🍽️",
+     "en": "Mountain-hut food",
+     "ja": "山小屋ごはん"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⛓️ Chains / exposed · 鎖場・高度感",
+     "emoji": "⛓️",
+     "en": "Chains / exposed",
+     "ja": "鎖場・高度感"
+    },
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-01",
+   "from_brugg": 141,
+   "distance": 8,
+   "ascent": 317,
+   "walking": 3.5,
+   "summary_en": "Two ways above emerald Lungerersee: A) steam cog railway + Rothorn ridge walk (to 25 Oct), or B) Turren cable car + quiet walk to Schönbüel (daily to 1 Nov).",
+   "summary_ja": "エメラルド色のルンゲルン湖を見下ろす2プラン。A：SL登山鉄道でロートホルンへ上がる尾根縦走（10/25まで）、B：トゥレンのロープウェイで静かなシェーンビュール往復（11/1まで毎日）。",
+   "route": "https://turren.ch/hoehenwanderung-rothorn",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d81e5b352d1312e460bb6",
+   "name_en": "Pilatus",
+   "name_ja": "ピラトゥス山",
+   "url": "https://www.notion.so/3eeeac558b1d81e5b352d1312e460bb6",
+   "lat": 46.979418,
+   "lon": 8.255949,
+   "type": {
+    "key": "⛰️ Summit · 山頂",
+    "emoji": "⛰️",
+    "en": "Summit",
+    "ja": "山頂"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-29",
+   "from_brugg": 142,
+   "distance": null,
+   "ascent": null,
+   "walking": 1,
+   "summary_en": "World's steepest cogwheel railway up Lucerne's dragon mountain; 360° lake & Alps views. Cogwheel runs all Oct; Kriens gondolas shut 19 Oct–27 Nov.",
+   "summary_ja": "世界一急な登山鉄道で登る、ルツェルンの「竜の山」。湖とアルプスの360°パノラマ。登山鉄道は10月中ずっと運行、クリエンス側のゴンドラは10/19〜11/27運休。",
+   "route": "https://pilatus.ch/en/railway-cableways/cogwheel-railway",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d8190b612e3e276a7454e",
+   "name_en": "Segnesboden & Trutg dil Flem",
+   "name_ja": "セグネスボーデンとフリムスの水の道",
+   "url": "https://www.notion.so/3eeeac558b1d8190b612e3e276a7454e",
+   "lat": 46.8767,
+   "lon": 9.2354,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Graubünden · グラウビュンデン",
+    "emoji": "",
+    "en": "Graubünden",
+    "ja": "グラウビュンデン"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍽️ Mountain-hut food · 山小屋ごはん",
+     "emoji": "🍽️",
+     "en": "Mountain-hut food",
+     "ja": "山小屋ごはん"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⛓️ Chains / exposed · 鎖場・高度感",
+     "emoji": "⛓️",
+     "en": "Chains / exposed",
+     "ja": "鎖場・高度感"
+    },
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-25",
+   "from_brugg": 144,
+   "distance": 13.5,
+   "ascent": 216,
+   "walking": 4,
+   "summary_en": "FlemX ropetaxi up to a flat UNESCO plain below the Tschingelhörner, then down the Flem gorge past waterfalls and seven bridges. FlemX runs until 25 Oct.",
+   "summary_ja": "世界初のロープタクシーFlemXで上がり、世界遺産サルドーナの平原から、滝と橋が続くフレム渓谷沿いにフリムスへ下ります。FlemXは10/25まで。",
+   "route": "https://unesco-sardona.ch/en/erlebnis/trutg-dil-flem-2",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d81f7b3fee08ae5130780",
+   "name_en": "Lauterbrunnen",
+   "name_ja": "ラウターブルンネン",
+   "url": "https://www.notion.so/3efeac558b1d81f7b3fee08ae5130780",
+   "lat": 46.59842,
+   "lon": 7.908077,
+   "type": {
+    "key": "💧 Waterfall · 滝",
+    "emoji": "💧",
+    "en": "Waterfall",
+    "ja": "滝"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 144,
+   "distance": 6.8,
+   "ascent": 117,
+   "walking": 1.8,
+   "summary_en": "Flat, easy valley walk past 297 m Staubbach Falls to Trümmelbach's glacier falls inside the mountain. Works in the rain; very busy, so go early on a weekday.",
+   "summary_ja": "落差約297mのシュタウプバッハの滝から、山の中を流れ落ちる氷河の滝トリュンメルバッハへ。平らで歩きやすい谷の散策で、雨でもOK。大人気なので平日の朝に。",
+   "route": "https://www.outdooractive.com/en/r/51019234",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d81a49934fdf125e193b4",
+   "name_en": "Gruyères & Maison Cailler",
+   "name_ja": "グリュイエール＆メゾン・カイエ",
+   "url": "https://www.notion.so/3efeac558b1d81a49934fdf125e193b4",
+   "lat": 46.5848,
+   "lon": 7.084,
+   "type": {
+    "key": "🏙️ Town · 街",
+    "emoji": "🏙️",
+    "en": "Town",
+    "ja": "街"
+   },
+   "region": {
+    "key": "Western CH · 西スイス",
+    "emoji": "",
+    "en": "Western CH",
+    "ja": "西スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 145,
+   "distance": null,
+   "ascent": null,
+   "walking": null,
+   "summary_en": "Car-free medieval hilltop town and castle, live Gruyère cheese-making and fondue, then chocolate tasting at Maison Cailler in Broc. Go early on a weekday.",
+   "summary_ja": "車の入れない中世の丘の町と名城。朝はチーズ作りを見学、昼はフォンデュ、午後はメゾン・カイエでチョコ試食。平日の朝早めがおすすめ。",
+   "route": "https://fribourg.ch/en/la-gruyere/gruyeres/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d810db113d3044c6782c3",
+   "name_en": "Ruinaulta",
+   "name_ja": "ルイナウルタ（ライン渓谷）",
+   "url": "https://www.notion.so/3eeeac558b1d810db113d3044c6782c3",
+   "lat": 46.8073,
+   "lon": 9.3103,
+   "type": {
+    "key": "🌊 Gorge · 渓谷",
+    "emoji": "🌊",
+    "en": "Gorge",
+    "ja": "渓谷"
+   },
+   "region": {
+    "key": "Graubünden · グラウビュンデン",
+    "emoji": "",
+    "en": "Graubünden",
+    "ja": "グラウビュンデン"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    }
+   ],
+   "headsup": [],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 149,
+   "distance": 12,
+   "ascent": 243,
+   "walking": 3.3,
+   "summary_en": "Walk the floor of the 'Swiss Grand Canyon' between white cliffs up to about 350 m high. Gentle T2, no lifts; trains run hourly, so time your finish.",
+   "summary_ja": "最大約350 mの白い断崖に挟まれた「スイスのグランドキャニオン」の谷底を川沿いに歩くコース。リフト不要。帰りの電車は1時間に1本なので時刻をチェック。",
+   "route": "https://www.surselva.info/Natur/rheinschlucht2/Wanderungen-Rheinschlucht",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d815da6e3d36a7fb0245f",
+   "name_en": "Caumasee & Crestasee",
+   "name_ja": "カウマ湖とクレスタ湖",
+   "url": "https://www.notion.so/3eeeac558b1d815da6e3d36a7fb0245f",
+   "lat": 46.8202,
+   "lon": 9.2963,
+   "type": {
+    "key": "🏞️ Lake · 湖",
+    "emoji": "🏞️",
+    "en": "Lake",
+    "ja": "湖"
+   },
+   "region": {
+    "key": "Graubünden · グラウビュンデン",
+    "emoji": "",
+    "en": "Graubünden",
+    "ja": "グラウビュンデン"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 149,
+   "distance": 9,
+   "ascent": 113,
+   "walking": 2.3,
+   "summary_en": "Two turquoise forest lakes and the Il Spir platform about 400 m above the Rhine Gorge, on an easy, mostly downhill T1 walk. Caumasee entry is free in October.",
+   "summary_ja": "森に囲まれたターコイズ色の2つの湖と、ライン渓谷を約400m真上から見下ろす展望台を巡る、ほぼ下りのやさしい散策。10月はカウマ湖が入場無料。",
+   "route": "https://wegwandern.ch/wanderung/wanderung-flims-waldhaus-caumasee-conn-il-spir-crestasee-trin-mulin-wandern/",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d8117b3ecf5d6b83820ea",
+   "name_en": "Grindelwald",
+   "name_ja": "グリンデルワルト",
+   "url": "https://www.notion.so/3efeac558b1d8117b3ecf5d6b83820ea",
+   "lat": 46.625499,
+   "lon": 8.017105,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-25",
+   "from_brugg": 151,
+   "distance": 4.5,
+   "ascent": null,
+   "walking": 1.3,
+   "summary_en": "Gondola to Männlichen, then an easy, mostly downhill trail facing the Eiger, Mönch and Jungfrau to Kleine Scheidegg; cog railway down. Lifts until 25 Oct.",
+   "summary_ja": "ゴンドラでメンリッヒェンへ。アイガー・メンヒ・ユングフラウを正面に見ながら、ほぼ下りの楽な道をクライネ・シャイデックまで歩き、登山鉄道で下山。リフトは10/25まで。",
+   "route": "https://maennlichen.ch/en/summer/experiences/panorama-trail.html",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d8140a025e0fd8fafbf90",
+   "name_en": "Kiental",
+   "name_ja": "キーンタール",
+   "url": "https://www.notion.so/3efeac558b1d8140a025e0fd8fafbf90",
+   "lat": 46.547474,
+   "lon": 7.761658,
+   "type": {
+    "key": "🌊 Gorge · 渓谷",
+    "emoji": "🌊",
+    "en": "Gorge",
+    "ja": "渓谷"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-18",
+   "from_brugg": 160,
+   "distance": 7,
+   "ascent": 68,
+   "walking": 2.2,
+   "summary_en": "Ride Europe's steepest postbus to Griesalp, then an easy, mostly downhill 2 h walk past gorge waterfalls and the Tschingelsee. Griesalp bus until 18 Oct.",
+   "summary_ja": "ヨーロッパ一急なポストバスでグリースアルプへ。滝が続く渓谷を抜けてチンゲル湖へ下る、約2時間のやさしい道。バスは10/18まで。",
+   "route": "https://www.wanderungen.ch/de/touren/wanderungen/berneroberland/Griesalp-Griesschlucht-Tschingelsee-Kiental.html?tour=2790",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d8182b8b9e4f6d3bdbdee",
+   "name_en": "Gastlosen",
+   "name_ja": "ガストローゼン",
+   "url": "https://www.notion.so/3efeac558b1d8182b8b9e4f6d3bdbdee",
+   "lat": 46.5842,
+   "lon": 7.2814,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Western CH · 西スイス",
+    "emoji": "",
+    "en": "Western CH",
+    "ja": "西スイス"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍽️ Mountain-hut food · 山小屋ごはん",
+     "emoji": "🍽️",
+     "en": "Mountain-hut food",
+     "ja": "山小屋ごはん"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-08",
+   "from_brugg": 161,
+   "distance": 11,
+   "ascent": 780,
+   "walking": 4,
+   "summary_en": "Chairlift from Jaun, then a 4 h T2 loop around jagged limestone towers, with a hut lunch and Bernese Alps views. Lift daily to 25 Oct, then fewer days.",
+   "summary_ja": "ヤウンからリフトで上がり、ノコギリ状の石灰岩の岩峰群をぐるりと巡る約4時間の周回コース。山小屋ランチとベルナーアルプスの眺めも。リフトは10/25まで毎日運行。",
+   "route": "https://fribourg.ch/de/la-gruyere/wanderungen/gastlosen-tour-in-jaun/",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d8182ade3f67fc67a789c",
+   "name_en": "Aletsch Glacier",
+   "name_ja": "アレッチ氷河",
+   "url": "https://www.notion.so/3efeac558b1d8182ade3f67fc67a789c",
+   "lat": 46.39614,
+   "lon": 8.04769,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Valais · ヴァレー",
+    "emoji": "",
+    "en": "Valais",
+    "ja": "ヴァレー"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-25",
+   "from_brugg": 163,
+   "distance": 4.9,
+   "ascent": 20,
+   "walking": 2.7,
+   "summary_en": "Gondola to Moosfluh above the Alps' largest glacier, then a mostly downhill ridge walk to Villa Cassel by the golden Aletsch Forest. Gondola until 25 Oct.",
+   "summary_ja": "ゴンドラでモースフルー展望台へ。アルプス最大のアレッチ氷河を眺めながら尾根道を下り、黄葉のアレッチの森へ。ゴンドラは10/25まで。",
+   "route": "https://www.aletscharena.ch/en/planning-booking/tour/thematic-experiential-trail-ridge-path-from-moosfluh-to-riederfurka",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d8193aa45ef6058eb2b05",
+   "name_en": "Schäfler Ridge",
+   "name_ja": "シェーフラー稜線",
+   "url": "https://www.notion.so/3eeeac558b1d8193aa45ef6058eb2b05",
+   "lat": 47.276142,
+   "lon": 9.391064,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Eastern CH · 東スイス",
+    "emoji": "",
+    "en": "Eastern CH",
+    "ja": "東スイス"
+   },
+   "effort": {
+    "key": "🟠 T3 Sure-footed · 健脚向け",
+    "emoji": "🟠",
+    "en": "T3 Sure-footed",
+    "ja": "健脚向け"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍽️ Mountain-hut food · 山小屋ごはん",
+     "emoji": "🍽️",
+     "en": "Mountain-hut food",
+     "ja": "山小屋ごはん"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⛓️ Chains / exposed · 鎖場・高度感",
+     "emoji": "⛓️",
+     "en": "Chains / exposed",
+     "ja": "鎖場・高度感"
+    },
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-01",
+   "from_brugg": 163,
+   "distance": 6.2,
+   "ascent": 543,
+   "walking": 2.8,
+   "summary_en": "Wire-rope-secured limestone ridge high above the Seealpsee, with the Säntis ahead and an inn near the top. T3 and exposed. Best on a weekday (not Wed).",
+   "summary_ja": "ゼーアルプ湖を真下に望む石灰岩の稜線を、ワイヤーを頼りに歩く周回コース。高度感のあるT3です。山小屋が水曜定休なので、水曜以外の平日がおすすめ。",
+   "route": "https://www.appenzell.ch/de/alpstein/wandern/wandervorschlaege.html?tx_wstourismus_tourismus%5Baction%5D=show&tx_wstourismus_tourismus%5Bcontroller%5D=Tour&tx_wstourismus_tourismus%5Btour%5D=84&cHash=bdd336a1e8d076cb8973f590ca5662a4",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d817c9541cc95e03caf46",
+   "name_en": "Teufelsbrücke & Schöllenen",
+   "name_ja": "悪魔の橋とシェレネン渓谷",
+   "url": "https://www.notion.so/3eeeac558b1d817c9541cc95e03caf46",
+   "lat": 46.6475,
+   "lon": 8.59,
+   "type": {
+    "key": "🌊 Gorge · 渓谷",
+    "emoji": "🌊",
+    "en": "Gorge",
+    "ja": "渓谷"
+   },
+   "region": {
+    "key": "Central CH · 中央スイス",
+    "emoji": "",
+    "en": "Central CH",
+    "ja": "中央スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 164,
+   "distance": 5,
+   "ascent": 65,
+   "walking": 1.5,
+   "summary_en": "Easy, mostly downhill walk from Andermatt through the wild Schöllenen Gorge, past the legendary Devil's Bridge and its devil-and-goat mural, to Göschenen.",
+   "summary_ja": "悪魔とヤギの伝説が残る「悪魔の橋」から、岩壁がそびえるシェレネン渓谷をゲシェネンへ下るやさしい散策。ゴッタルド山岳線の車窓も魅力です。",
+   "route": "https://www.luzern.com/de/tour/andermatt-goeschenen-durch-die-schoellenen",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d81f08f5cf5819c49f58a",
+   "name_en": "Saxer Lücke",
+   "name_ja": "ザクサー・リュッケ",
+   "url": "https://www.notion.so/3eeeac558b1d81f08f5cf5819c49f58a",
+   "lat": 47.247289,
+   "lon": 9.424775,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Eastern CH · 東スイス",
+    "emoji": "",
+    "en": "Eastern CH",
+    "ja": "東スイス"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍽️ Mountain-hut food · 山小屋ごはん",
+     "emoji": "🍽️",
+     "en": "Mountain-hut food",
+     "ja": "山小屋ごはん"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    },
+    {
+     "key": "⛓️ Chains / exposed · 鎖場・高度感",
+     "emoji": "⛓️",
+     "en": "Chains / exposed",
+     "ja": "鎖場・高度感"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 164,
+   "distance": 16.2,
+   "ascent": 652,
+   "walking": 5.5,
+   "summary_en": "Ridge walk on Switzerland's first geology trail to the famous Kreuzberge view over the Fälensee. Go on a weekday and take the 07:00 train or earlier.",
+   "summary_ja": "アルプシュタインの稜線を歩いて、岩峰クロイツベルゲとフェーレン湖を望む人気の峠へ。混雑を避けるなら平日に、ブルック7時発までの電車で。",
+   "route": "https://www.appenzell.ch/de/sommer/wandern/themenwanderwege/der-geologische-wanderweg.html",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d812897ccc5a10abc7c97",
+   "name_en": "Lavaux",
+   "name_ja": "ラヴォー地区のブドウ畑",
+   "url": "https://www.notion.so/3efeac558b1d812897ccc5a10abc7c97",
+   "lat": 46.4919,
+   "lon": 6.7461,
+   "type": {
+    "key": "🚶 Walk · 散策",
+    "emoji": "🚶",
+    "en": "Walk",
+    "ja": "散策"
+   },
+   "region": {
+    "key": "Western CH · 西スイス",
+    "emoji": "",
+    "en": "Western CH",
+    "ja": "西スイス"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 165,
+   "distance": 11.4,
+   "ascent": 419,
+   "walking": 3.2,
+   "summary_en": "UNESCO terraced vineyards dropping into Lake Geneva. Easy T1 trail St-Saphorin → Lutry via wine villages and Chasselas tastings; vines turn gold in late Oct.",
+   "summary_ja": "レマン湖へ続く世界遺産のブドウ段々畑。サン・サフォラン〜リュトリーのやさしい道でワイン村めぐりと試飲を。10月後半は葉が黄金色に。",
+   "route": "https://wegwandern.ch/wanderung/weinterrassen-von-lavaux-st-saphorin-lutry-wanderung-wandern/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d815a99d9d4effab766a6",
+   "name_en": "Engstligenfälle",
+   "name_ja": "エンストリゲン滝",
+   "url": "https://www.notion.so/3eeeac558b1d815a99d9d4effab766a6",
+   "lat": 46.4489,
+   "lon": 7.5619,
+   "type": {
+    "key": "💧 Waterfall · 滝",
+    "emoji": "💧",
+    "en": "Waterfall",
+    "ja": "滝"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍽️ Mountain-hut food · 山小屋ごはん",
+     "emoji": "🍽️",
+     "en": "Mountain-hut food",
+     "ja": "山小屋ごはん"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-24",
+   "from_brugg": 166,
+   "distance": 3.2,
+   "ascent": 600,
+   "walking": 1.8,
+   "summary_en": "Climb an old mule track beside the roaring two-tier Engstligen Falls to a vast alpine plateau, cable car down. After 18 Oct: Wed–Sun only, last bus 16:40.",
+   "summary_ja": "2段で落ちるエンストリゲン滝のすぐ横、昔のラバ道を登って広大な高原へ。帰りはロープウェイで楽々。10月19日以降は水〜日のみ運行、最終バスは16:40。",
+   "route": "https://www.outdooractive.com/en/route/hiking-trail/adelboden/unter-dem-birg-engstligenalp/53007022/",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d8172adcee57b5fad179a",
+   "name_en": "Aareschlucht",
+   "name_ja": "アーレ渓谷",
+   "url": "https://www.notion.so/3efeac558b1d8172adcee57b5fad179a",
+   "lat": 46.72005,
+   "lon": 8.20461,
+   "type": {
+    "key": "🌊 Gorge · 渓谷",
+    "emoji": "🌊",
+    "en": "Gorge",
+    "ja": "渓谷"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-01",
+   "from_brugg": 167,
+   "distance": 1.4,
+   "ascent": null,
+   "walking": 1,
+   "summary_en": "Walk 1.4 km of cliff walkways and tunnels through a roaring gorge, then Sherlock Holmes's Meiringen and a Lake Brienz boat. Open daily until 1 Nov.",
+   "summary_ja": "氷河の融け水が削った細い渓谷を、岩壁の通路とトンネルで約1時間。ホームズゆかりのマイリンゲンやブリエンツ湖の船と組み合わせて。11月1日まで毎日営業。",
+   "route": "https://aareschlucht.ch/de/Info/informationen",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d818f994bdf1d96635a44",
+   "name_en": "Mürren",
+   "name_ja": "ミューレン",
+   "url": "https://www.notion.so/3efeac558b1d818f994bdf1d96635a44",
+   "lat": 46.5641,
+   "lon": 7.897228,
+   "type": {
+    "key": "🚶 Walk · 散策",
+    "emoji": "🚶",
+    "en": "Walk",
+    "ja": "散策"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 172,
+   "distance": 4.4,
+   "ascent": 150,
+   "walking": 1.5,
+   "summary_en": "Easy 1¼–1½ h walk from Grütschalp to car-free Mürren facing Eiger, Mönch & Jungfrau; add the Schilthorn if clear. Grütschalp lift shut 26 Oct–6 Nov.",
+   "summary_ja": "アイガー・メンヒ・ユングフラウを正面に、断崖上の車のない村ミューレンへ歩くやさしい道。晴れたらシルトホルンへ。グリュッチアルプ行きは10/26〜11/6運休。",
+   "route": "https://www.jungfrau.ch/en-gb/winteregg-muerren/hiking-ticket-gruetschalp/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d815fb2a6fed99373e0ee",
+   "name_en": "Lötschental",
+   "name_ja": "レッチェンタール",
+   "url": "https://www.notion.so/3eeeac558b1d815fb2a6fed99373e0ee",
+   "lat": 46.410973,
+   "lon": 7.774203,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Valais · ヴァレー",
+    "emoji": "",
+    "en": "Valais",
+    "ja": "ヴァレー"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-25",
+   "from_brugg": 178,
+   "distance": 9.4,
+   "ascent": 133,
+   "walking": 2.7,
+   "summary_en": "Golden larches and Bietschhorn glacier views on a balcony trail past Schwarzsee. Book the Fafleralp minibus back on sbb.ch by 16:00 the day before (to 25 Oct).",
+   "summary_ja": "ビーチホルンと氷河を眺めながら、黄金色のカラマツ林を歩くバルコニー道。帰りのミニバス（10/25まで）は前日16時までに要予約（sbb.ch）。",
+   "route": "https://regio.outdooractive.com/oar-loetschental/en/route/hiking-trail/loetschental-panoramic-trail-lauchernalp-fafleralp/2808212/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d814e96d7e2015f01af5c",
+   "name_en": "Rosenlaui Glacier Gorge",
+   "name_ja": "ローゼンラウイ氷河峡谷",
+   "url": "https://www.notion.so/3eeeac558b1d814e96d7e2015f01af5c",
+   "lat": 46.6786,
+   "lon": 8.1547,
+   "type": {
+    "key": "🌊 Gorge · 渓谷",
+    "emoji": "🌊",
+    "en": "Gorge",
+    "ja": "渓谷"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟢 T1 Easy · やさしい",
+    "emoji": "🟢",
+    "en": "T1 Easy",
+    "ja": "やさしい"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-18",
+   "from_brugg": 189,
+   "distance": 5.2,
+   "ascent": 225,
+   "walking": 1.9,
+   "summary_en": "Easy walk past 600+ ancient maples to a roaring glacier gorge in a quiet valley above Meiringen. Bus and gorge run only until 18 Oct 2026.",
+   "summary_ja": "マイリンゲン奥の静かな谷。カエデの古木が点在する牧草地を歩き、轟く滝の氷河峡谷へ。バスと峡谷は2026年10月18日まで。",
+   "route": "https://rosenlauischlucht.ch/de/Ferien/Gletscherschlucht",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d81b98172f704ba0242ad",
+   "name_en": "Eichhörnliweg Arosa",
+   "name_ja": "アローザのリスの小径",
+   "url": "https://www.notion.so/3eeeac558b1d81b98172f704ba0242ad",
+   "lat": 46.7894,
+   "lon": 9.6787,
+   "type": {
+    "key": "🚶 Walk · 散策",
+    "emoji": "🚶",
+    "en": "Walk",
+    "ja": "散策"
+   },
+   "region": {
+    "key": "Graubünden · グラウビュンデン",
+    "emoji": "",
+    "en": "Graubünden",
+    "ja": "グラウビュンデン"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "🐿️ Wildlife · 動物",
+     "emoji": "🐿️",
+     "en": "Wildlife",
+     "ja": "動物"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🌼 Alpine pastures · 高原・牧草地",
+     "emoji": "🌼",
+     "en": "Alpine pastures",
+     "ja": "高原・牧草地"
+    },
+    {
+     "key": "🍽️ Mountain-hut food · 山小屋ごはん",
+     "emoji": "🍽️",
+     "en": "Mountain-hut food",
+     "ja": "山小屋ごはん"
+    },
+    {
+     "key": "☔ Rainy-day OK · 雨でもOK",
+     "emoji": "☔",
+     "en": "Rainy-day OK",
+     "ja": "雨でもOK"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    },
+    {
+     "key": "❄️ Winter · 冬",
+     "emoji": "❄️",
+     "en": "Winter",
+     "ja": "冬"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 189,
+   "distance": 6.4,
+   "ascent": 157,
+   "walking": 1.7,
+   "summary_en": "Tame squirrels eat from your hand on a forest path; add two small lakes and an alp terrace for an easy loop. 3 h 10 each way: leave early, bring nuts.",
+   "summary_ja": "森の小径で人なつこいリスが手からナッツを食べに来ます。小さな湖ふたつとアルプのテラスを巡る気軽な周回。片道約3時間10分なので早めの出発とナッツ持参を。",
+   "route": "https://maps.arosalenzerheide.swiss/en/tour/theme-trail/eichhoernliweg-arosa/17633919/",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d813e88b9e582981c60da",
+   "name_en": "Zermatt & Gornergrat",
+   "name_ja": "ツェルマット＆ゴルナーグラート",
+   "url": "https://www.notion.so/3efeac558b1d813e88b9e582981c60da",
+   "lat": 45.984463,
+   "lon": 7.765354,
+   "type": {
+    "key": "🚶 Walk · 散策",
+    "emoji": "🚶",
+    "en": "Walk",
+    "ja": "散策"
+   },
+   "region": {
+    "key": "Valais · ヴァレー",
+    "emoji": "",
+    "en": "Valais",
+    "ja": "ヴァレー"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🏆 Swiss classic · 定番の名所",
+     "emoji": "🏆",
+     "en": "Swiss classic",
+     "ja": "定番の名所"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-11-01",
+   "from_brugg": 201,
+   "distance": null,
+   "ascent": null,
+   "walking": 1.5,
+   "summary_en": "Ride the Gornergrat railway to views of 29 peaks over 4,000 m, then walk mostly downhill to Riffelsee for the mirrored Matterhorn. Trains run until 1 Nov.",
+   "summary_ja": "ゴルナーグラート鉄道で4,000m超の29峰と氷河の大パノラマへ。ほぼ下りの道を歩いて「逆さマッターホルン」のリッフェル湖へ。電車は11/1まで毎日運行。",
+   "route": "https://www.myswitzerland.com/en-ch/destinations/riffelsee/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d813baeb4e27b1ae82a9e",
+   "name_en": "Sustenpass & Steinsee",
+   "name_ja": "ズステン峠とシュタイン湖",
+   "url": "https://www.notion.so/3eeeac558b1d813baeb4e27b1ae82a9e",
+   "lat": 46.731126,
+   "lon": 8.427479,
+   "type": {
+    "key": "🏞️ Lake · 湖",
+    "emoji": "🏞️",
+    "en": "Lake",
+    "ja": "湖"
+   },
+   "region": {
+    "key": "Bernese Oberland · ベルナーオーバーラント",
+    "emoji": "",
+    "en": "Bernese Oberland",
+    "ja": "ベルナーオーバーラント"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🧊 Glacier views · 氷河の眺め",
+     "emoji": "🧊",
+     "en": "Glacier views",
+     "ja": "氷河の眺め"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": "2026-10-04",
+   "from_brugg": 206,
+   "distance": null,
+   "ascent": null,
+   "walking": 2,
+   "summary_en": "PostBus over one of Switzerland's finest pass roads to the Steingletscher glacier and turquoise Steinsee. 2026 buses end 4 Oct, so save it for June–Sept.",
+   "summary_ja": "スイス屈指の峠道をポストバスで走り、シュタイン氷河とターコイズ色の湖へ。2026年のバスは10/4で終了なので、基本は6〜9月向きです。",
+   "route": "https://www.myswitzerland.com/en-ch/destinations/susten-pass/",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d816a900ac245625383ee",
+   "name_en": "Lavertezzo (Verzasca)",
+   "name_ja": "ラヴェルテッツォ（ヴェルザスカ谷）",
+   "url": "https://www.notion.so/3eeeac558b1d816a900ac245625383ee",
+   "lat": 46.26,
+   "lon": 8.8359,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Ticino · ティチーノ",
+    "emoji": "",
+    "en": "Ticino",
+    "ja": "ティチーノ"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🔥 Very popular · 大人気",
+    "emoji": "🔥",
+    "en": "Very popular",
+    "ja": "大人気"
+   },
+   "highlights": [
+    {
+     "key": "🌊 Gorges & falls · 渓谷・滝",
+     "emoji": "🌊",
+     "en": "Gorges & falls",
+     "ja": "渓谷・滝"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    },
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🌸 Spring · 春",
+     "emoji": "🌸",
+     "en": "Spring",
+     "ja": "春"
+    },
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 223,
+   "distance": 13.6,
+   "ascent": 25,
+   "walking": 3.8,
+   "summary_en": "Mostly downhill riverside walk past Ticino stone villages to the emerald pools of Ponte dei Salti. About 3¾ h each way: go on a weekday or stay over.",
+   "summary_ja": "エメラルド色の川に沿って石造りの村を歩き、名所サルティ橋へ。ほぼ下りで歩きやすい道です。片道約3時間45分かかるので、平日か1泊がおすすめ。",
+   "route": "https://www.ascona-locarno.com/en/hike/details/Sentiero-Verzasca-(SvizzeraMobile-74)/801413645",
+   "top": false
+  },
+  {
+   "id": "3efeac558b1d814c8cf9c1b9b05f68ef",
+   "name_en": "Rochers de Naye",
+   "name_ja": "ロシェ・ド・ネー",
+   "url": "https://www.notion.so/3efeac558b1d814c8cf9c1b9b05f68ef",
+   "lat": 46.431678,
+   "lon": 6.979006,
+   "type": {
+    "key": "⛰️ Summit · 山頂",
+    "emoji": "⛰️",
+    "en": "Summit",
+    "ja": "山頂"
+   },
+   "region": {
+    "key": "Western CH · 西スイス",
+    "emoji": "",
+    "en": "Western CH",
+    "ja": "西スイス"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "👥 Popular · 人気",
+    "emoji": "👥",
+    "en": "Popular",
+    "ja": "人気"
+   },
+   "highlights": [
+    {
+     "key": "⛰️ Peaks & ridges · 山頂・稜線",
+     "emoji": "⛰️",
+     "en": "Peaks & ridges",
+     "ja": "山頂・稜線"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🚡 Needs lifts · ロープウェイ利用",
+     "emoji": "🚡",
+     "en": "Needs lifts",
+     "ja": "ロープウェイ利用"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    }
+   ],
+   "season": [
+    {
+     "key": "☀️ Summer · 夏",
+     "emoji": "☀️",
+     "en": "Summer",
+     "ja": "夏"
+    },
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 230,
+   "distance": 2.7,
+   "ascent": 146,
+   "walking": 1.5,
+   "summary_en": "Cogwheel train from Montreux up ~1,600 m to a 2,042 m balcony over Lake Geneva and the Alps, then a ridge path to Jaman. Trains resume 17 Oct 2026.",
+   "summary_ja": "モントルーから登山鉄道で標高2,042mの山頂へ。レマン湖とアルプスの大パノラマ、ジャマン駅への尾根歩きも。2026年は10月17日に運行再開。",
+   "route": "https://www.montreuxriviera.com/en/V3047",
+   "top": false
+  },
+  {
+   "id": "3eeeac558b1d816e9914d85624a5cbc6",
+   "name_en": "Maloja – Grevasalvas – Sils",
+   "name_ja": "マローヤ〜シルス黄葉ハイク",
+   "url": "https://www.notion.so/3eeeac558b1d816e9914d85624a5cbc6",
+   "lat": 46.4237,
+   "lon": 9.7181,
+   "type": {
+    "key": "🥾 Hike · ハイキング",
+    "emoji": "🥾",
+    "en": "Hike",
+    "ja": "ハイキング"
+   },
+   "region": {
+    "key": "Graubünden · グラウビュンデン",
+    "emoji": "",
+    "en": "Graubünden",
+    "ja": "グラウビュンデン"
+   },
+   "effort": {
+    "key": "🟡 T2 Mountain trail · 一般登山道",
+    "emoji": "🟡",
+    "en": "T2 Mountain trail",
+    "ja": "一般登山道"
+   },
+   "crowds": {
+    "key": "🙂 Some visitors · ほどほど",
+    "emoji": "🙂",
+    "en": "Some visitors",
+    "ja": "ほどほど"
+   },
+   "highlights": [
+    {
+     "key": "🍂 Autumn colours · 紅葉・黄葉",
+     "emoji": "🍂",
+     "en": "Autumn colours",
+     "ja": "紅葉・黄葉"
+    },
+    {
+     "key": "🏞️ Lakes · 湖",
+     "emoji": "🏞️",
+     "en": "Lakes",
+     "ja": "湖"
+    },
+    {
+     "key": "🏘️ Villages & culture · 村・文化",
+     "emoji": "🏘️",
+     "en": "Villages & culture",
+     "ja": "村・文化"
+    },
+    {
+     "key": "📸 Photo spot · 絶景フォト",
+     "emoji": "📸",
+     "en": "Photo spot",
+     "ja": "絶景フォト"
+    }
+   ],
+   "headsup": [
+    {
+     "key": "🛏️ Overnight better · 1泊推奨",
+     "emoji": "🛏️",
+     "en": "Overnight better",
+     "ja": "1泊推奨"
+    },
+    {
+     "key": "⏱️ Long day · 長い1日",
+     "emoji": "⏱️",
+     "en": "Long day",
+     "ja": "長い1日"
+    },
+    {
+     "key": "❄️ Snow-dependent · 積雪次第",
+     "emoji": "❄️",
+     "en": "Snow-dependent",
+     "ja": "積雪次第"
+    },
+    {
+     "key": "👥 Busy weekends · 週末は混雑",
+     "emoji": "👥",
+     "en": "Busy weekends",
+     "ja": "週末は混雑"
+    }
+   ],
+   "season": [
+    {
+     "key": "🍂 Autumn · 秋",
+     "emoji": "🍂",
+     "en": "Autumn",
+     "ja": "秋"
+    }
+   ],
+   "open_until": null,
+   "from_brugg": 258,
+   "distance": 8.8,
+   "ascent": 360,
+   "walking": 2.6,
+   "summary_en": "Golden larches above turquoise Lake Sils, via Grevasalvas, a 1978 Heidi TV set. No lifts needed; 4 h+ each way, so stay a night in the Engadine.",
+   "summary_ja": "ターコイズ色のシルス湖を見下ろすカラマツ黄葉の道。ドラマ版ハイジのロケ地も通ります。リフト不要ですが、片道4時間超なので1泊がおすすめ。",
+   "route": "https://www.graubuenden.ch/en/tours/via-engiadina-stage-1",
+   "top": false
+  }
+ ]
+}
